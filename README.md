@@ -159,6 +159,8 @@ Project Structure
 │   ├── index.css                # Entry CSS
 │   ├── main.jsx                 # Entry point
 
+Backend repo :  https://github.com/cyborggit12/Ai-ResumeProject-Backend.git
+
 ## Contributing
 
 1. Create a branch for your feature
